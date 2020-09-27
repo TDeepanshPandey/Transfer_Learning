@@ -7,3 +7,4 @@ I have got an accuracy for 50% percent for few classes even without using whole 
 Output of Generator - 
 
 ![alt_text](https://github.com/TDeepanshPandey/Transfer_Learning/blob/master/Output.jpg)
+.
